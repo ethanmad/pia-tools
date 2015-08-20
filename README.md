@@ -15,7 +15,7 @@ OpenVPN hook for privateinternetaccess.com to automate port forwarding, dynamica
 ## Dependencies
 
 * curl
-* dnsutils (nslookup)
+* bind-tools (nslookup)
 * openvpn
 * sed
 * sudo
